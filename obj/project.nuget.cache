@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZC6DaKxzuDKZhoxzDQDZKCkvmO7cEziTlDjNfGdpDAC/YZcEM76k08kzNbx3FQR57ufmvfqbA3Q0zjMeaQS9gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\777\\source\\repos\\blazor-test-docker\\blazor-test-docker\\blazor-test-docker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\777\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
